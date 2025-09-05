@@ -3,7 +3,7 @@
     "target": "es2020",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "outDir": "./dist/assets/js",
+    "outDir": "frontend/assets/js",
     "strict": true,
     "verbatimModuleSyntax": true,
     "isolatedModules": true,

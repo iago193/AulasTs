@@ -16,7 +16,7 @@ const config: Configuration = {
   entry: "./src/index.ts",
   output: {
     filename: "bundle.js",
-    path: path.resolve(__dirname, "dist/assets/js"),
+    path: path.resolve(__dirname, "frontend/assets/js"),
   },
   resolve: {
     extensions: [".ts", ".tsx", ".js"],
